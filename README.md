@@ -1,5 +1,5 @@
 # AIR-retriever
-AIR retriever for Multi-Hop QA - ACL 2020 [paper] (https://arxiv.org/abs/2005.01218)
+AIR retriever for Multi-Hop QA - ACL 2020 [paper](https://arxiv.org/abs/2005.01218)
 
 ## Running Experiments:
 
