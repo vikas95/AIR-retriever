@@ -11,6 +11,7 @@ The train and dev sets are available in the above link.
 3] Running "python3 main_MultiRC_passages_from_topN_Iterative_alignments_PARALLEL_evidences.py" generates the train and dev files for the QA tasks with various parallel evidences. We had followed the binary classification approach for every candidate answer in the QA task (https://arxiv.org/abs/2005.01218), hence the files are in MRPC format which makes it easier to train any transformer based approach (RoBERTa, XLnet or BERT) from the huggingface library. 
 
 QA files in MRPC format can be downloaded from [here](https://drive.google.com/file/d/1hyMGTKCu_4LZir9VPPnsNqh05gYMD0aN/view?usp=sharing)
+
 QA files for QASC dataset in MCQA format can be downloaded from [here](https://drive.google.com/file/d/1O5ykOf0BlXUVOgKyWKv9_LJsUkpUv4iZ/view?usp=sharing)
 
 
